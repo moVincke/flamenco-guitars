@@ -29,7 +29,7 @@ The website allows users to browse different types and models of flamenco guitar
 
 ## Project Structure
 
-
+```text
 flamenco-guitars/
 ├── css/
 ├── html/
@@ -38,6 +38,7 @@ flamenco-guitars/
 ├── script/
 ├── index.html
 └── README.md
+```
 
 
 ## What I Learned
