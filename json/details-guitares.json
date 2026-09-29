@@ -1,0 +1,342 @@
+[
+  {
+    "id": "alhambra-7fc-blanca",
+    "nameKey": "models.alhambra7fcBlanca.name",
+    "typeKey": "types.blanca.name",
+    "descriptionKey": "details.alhambra7fcBlanca.description",
+    "woodKey": "details.alhambra7fcBlanca.wood",
+    "soundKey": "details.alhambra7fcBlanca.sound",
+    "usageKey": "details.alhambra7fcBlanca.usage",
+    "averagePriceKey": "details.alhambra7fcBlanca.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 850 },
+      { "annee": 2018, "prix": 880 },
+      { "annee": 2020, "prix": 920 },
+      { "annee": 2022, "prix": 950 },
+      { "annee": 2024, "prix": 980 }
+    ]
+  },
+  {
+    "id": "cordoba-f7-blanca",
+    "nameKey": "models.cordobaF7Blanca.name",
+    "typeKey": "types.blanca.name",
+    "descriptionKey": "details.cordobaF7Blanca.description",
+    "woodKey": "details.cordobaF7Blanca.wood",
+    "soundKey": "details.cordobaF7Blanca.sound",
+    "usageKey": "details.cordobaF7Blanca.usage",
+    "averagePriceKey": "details.cordobaF7Blanca.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 480 },
+      { "annee": 2018, "prix": 520 },
+      { "annee": 2020, "prix": 550 },
+      { "annee": 2022, "prix": 600 },
+      { "annee": 2024, "prix": 650 }
+    ]
+  },
+  {
+    "id": "admira-f4-blanca",
+    "nameKey": "models.admiraF4Blanca.name",
+    "typeKey": "types.blanca.name",
+    "descriptionKey": "details.admiraF4Blanca.description",
+    "woodKey": "details.admiraF4Blanca.wood",
+    "soundKey": "details.admiraF4Blanca.sound",
+    "usageKey": "details.admiraF4Blanca.usage",
+    "averagePriceKey": "details.admiraF4Blanca.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 380 },
+      { "annee": 2018, "prix": 410 },
+      { "annee": 2020, "prix": 450 },
+      { "annee": 2022, "prix": 500 },
+      { "annee": 2024, "prix": 530 }
+    ]
+  },
+  {
+    "id": "camps-primera-blanca",
+    "nameKey": "models.campsPrimeraBlanca.name",
+    "typeKey": "types.blanca.name",
+    "descriptionKey": "details.campsPrimeraBlanca.description",
+    "woodKey": "details.campsPrimeraBlanca.wood",
+    "soundKey": "details.campsPrimeraBlanca.sound",
+    "usageKey": "details.campsPrimeraBlanca.usage",
+    "averagePriceKey": "details.campsPrimeraBlanca.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 850 },
+      { "annee": 2018, "prix": 900 },
+      { "annee": 2020, "prix": 950 },
+      { "annee": 2022, "prix": 1000 },
+      { "annee": 2024, "prix": 1050 }
+    ]
+  },
+  {
+    "id": "ramirez-estudio-blanca",
+    "nameKey": "models.ramirezEstudioBlanca.name",
+    "typeKey": "types.blanca.name",
+    "descriptionKey": "details.ramirezEstudioBlanca.description",
+    "woodKey": "details.ramirezEstudioBlanca.wood",
+    "soundKey": "details.ramirezEstudioBlanca.sound",
+    "usageKey": "details.ramirezEstudioBlanca.usage",
+    "averagePriceKey": "details.ramirezEstudioBlanca.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 1150 },
+      { "annee": 2018, "prix": 1250 },
+      { "annee": 2020, "prix": 1350 },
+      { "annee": 2022, "prix": 1450 },
+      { "annee": 2024, "prix": 1550 }
+    ]
+  },
+  {
+    "id": "cordoba-gk-pro-negra",
+    "nameKey": "models.cordobaGkProNegra.name",
+    "typeKey": "types.negra.name",
+    "descriptionKey": "details.cordobaGkProNegra.description",
+    "woodKey": "details.cordobaGkProNegra.wood",
+    "soundKey": "details.cordobaGkProNegra.sound",
+    "usageKey": "details.cordobaGkProNegra.usage",
+    "averagePriceKey": "details.cordobaGkProNegra.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 1200 },
+      { "annee": 2018, "prix": 1350 },
+      { "annee": 2020, "prix": 1500 },
+      { "annee": 2022, "prix": 1650 },
+      { "annee": 2024, "prix": 1800 }
+    ]
+  },
+  {
+    "id": "alhambra-10fc-negra",
+    "nameKey": "models.alhambra10fcNegra.name",
+    "typeKey": "types.negra.name",
+    "descriptionKey": "details.alhambra10fcNegra.description",
+    "woodKey": "details.alhambra10fcNegra.wood",
+    "soundKey": "details.alhambra10fcNegra.sound",
+    "usageKey": "details.alhambra10fcNegra.usage",
+    "averagePriceKey": "details.alhambra10fcNegra.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 1400 },
+      { "annee": 2018, "prix": 1550 },
+      { "annee": 2020, "prix": 1700 },
+      { "annee": 2022, "prix": 1850 },
+      { "annee": 2024, "prix": 2000 }
+    ]
+  },
+  {
+    "id": "camps-negra",
+    "nameKey": "models.campsNegra.name",
+    "typeKey": "types.negra.name",
+    "descriptionKey": "details.campsNegra.description",
+    "woodKey": "details.campsNegra.wood",
+    "soundKey": "details.campsNegra.sound",
+    "usageKey": "details.campsNegra.usage",
+    "averagePriceKey": "details.campsNegra.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 950 },
+      { "annee": 2018, "prix": 1050 },
+      { "annee": 2020, "prix": 1150 },
+      { "annee": 2022, "prix": 1250 },
+      { "annee": 2024, "prix": 1350 }
+    ]
+  },
+  {
+    "id": "admira-triana-negra",
+    "nameKey": "models.admiraTrianaNegra.name",
+    "typeKey": "types.negra.name",
+    "descriptionKey": "details.admiraTrianaNegra.description",
+    "woodKey": "details.admiraTrianaNegra.wood",
+    "soundKey": "details.admiraTrianaNegra.sound",
+    "usageKey": "details.admiraTrianaNegra.usage",
+    "averagePriceKey": "details.admiraTrianaNegra.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 480 },
+      { "annee": 2018, "prix": 520 },
+      { "annee": 2020, "prix": 560 },
+      { "annee": 2022, "prix": 600 },
+      { "annee": 2024, "prix": 650 }
+    ]
+  },
+  {
+    "id": "ramirez-negra-estudio",
+    "nameKey": "models.ramirezNegraEstudio.name",
+    "typeKey": "types.negra.name",
+    "descriptionKey": "details.ramirezNegraEstudio.description",
+    "woodKey": "details.ramirezNegraEstudio.wood",
+    "soundKey": "details.ramirezNegraEstudio.sound",
+    "usageKey": "details.ramirezNegraEstudio.usage",
+    "averagePriceKey": "details.ramirezNegraEstudio.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 1400 },
+      { "annee": 2018, "prix": 1600 },
+      { "annee": 2020, "prix": 1800 },
+      { "annee": 2022, "prix": 2000 },
+      { "annee": 2024, "prix": 2200 }
+    ]
+  },
+  {
+    "id": "cordoba-fusion-14-cutaway",
+    "nameKey": "models.cordobaFusion14Cutaway.name",
+    "typeKey": "types.panCoupe.name",
+    "descriptionKey": "details.cordobaFusion14Cutaway.description",
+    "woodKey": "details.cordobaFusion14Cutaway.wood",
+    "soundKey": "details.cordobaFusion14Cutaway.sound",
+    "usageKey": "details.cordobaFusion14Cutaway.usage",
+    "averagePriceKey": "details.cordobaFusion14Cutaway.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 700 },
+      { "annee": 2018, "prix": 750 },
+      { "annee": 2020, "prix": 800 },
+      { "annee": 2022, "prix": 850 },
+      { "annee": 2024, "prix": 880 }
+    ]
+  },
+  {
+    "id": "admira-buleria-ecf",
+    "nameKey": "models.admiraBuleriaEcf.name",
+    "typeKey": "types.panCoupe.name",
+    "descriptionKey": "details.admiraBuleriaEcf.description",
+    "woodKey": "details.admiraBuleriaEcf.wood",
+    "soundKey": "details.admiraBuleriaEcf.sound",
+    "usageKey": "details.admiraBuleriaEcf.usage",
+    "averagePriceKey": "details.admiraBuleriaEcf.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 380 },
+      { "annee": 2018, "prix": 400 },
+      { "annee": 2020, "prix": 430 },
+      { "annee": 2022, "prix": 460 },
+      { "annee": 2024, "prix": 480 }
+    ]
+  },
+  {
+    "id": "admira-alegria-ecf",
+    "nameKey": "models.admiraAlegriaEcf.name",
+    "typeKey": "types.panCoupe.name",
+    "descriptionKey": "details.admiraAlegriaEcf.description",
+    "woodKey": "details.admiraAlegriaEcf.wood",
+    "soundKey": "details.admiraAlegriaEcf.sound",
+    "usageKey": "details.admiraAlegriaEcf.usage",
+    "averagePriceKey": "details.admiraAlegriaEcf.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 370 },
+      { "annee": 2018, "prix": 390 },
+      { "annee": 2020, "prix": 420 },
+      { "annee": 2022, "prix": 450 },
+      { "annee": 2024, "prix": 480 }
+    ]
+  },
+  {
+    "id": "camps-fl11c-negra",
+    "nameKey": "models.campsFl11cNegra.name",
+    "typeKey": "types.panCoupe.name",
+    "descriptionKey": "details.campsFl11cNegra.description",
+    "woodKey": "details.campsFl11cNegra.wood",
+    "soundKey": "details.campsFl11cNegra.sound",
+    "usageKey": "details.campsFl11cNegra.usage",
+    "averagePriceKey": "details.campsFl11cNegra.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 1500 },
+      { "annee": 2018, "prix": 1600 },
+      { "annee": 2020, "prix": 1700 },
+      { "annee": 2022, "prix": 1750 },
+      { "annee": 2024, "prix": 1800 }
+    ]
+  },
+  {
+    "id": "saenz-primera-palossanto-cwe",
+    "nameKey": "models.saenzPrimeraPalossantoCwe.name",
+    "typeKey": "types.panCoupe.name",
+    "descriptionKey": "details.saenzPrimeraPalossantoCwe.description",
+    "woodKey": "details.saenzPrimeraPalossantoCwe.wood",
+    "soundKey": "details.saenzPrimeraPalossantoCwe.sound",
+    "usageKey": "details.saenzPrimeraPalossantoCwe.usage",
+    "averagePriceKey": "details.saenzPrimeraPalossantoCwe.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 2500 },
+      { "annee": 2018, "prix": 2600 },
+      { "annee": 2020, "prix": 2700 },
+      { "annee": 2022, "prix": 2850 },
+      { "annee": 2024, "prix": 3000 }
+    ]
+  },
+  {
+    "id": "cordoba-gk-studio-negra",
+    "nameKey": "models.cordobaGkStudioNegra.name",
+    "typeKey": "types.semiElectro.name",
+    "descriptionKey": "details.cordobaGkStudioNegra.description",
+    "woodKey": "details.cordobaGkStudioNegra.wood",
+    "soundKey": "details.cordobaGkStudioNegra.sound",
+    "usageKey": "details.cordobaGkStudioNegra.usage",
+    "averagePriceKey": "details.cordobaGkStudioNegra.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 650 },
+      { "annee": 2018, "prix": 680 },
+      { "annee": 2020, "prix": 720 },
+      { "annee": 2022, "prix": 760 },
+      { "annee": 2024, "prix": 800 }
+    ]
+  },
+  {
+    "id": "cordoba-gk-studio-blanca",
+    "nameKey": "models.cordobaGkStudioBlanca.name",
+    "typeKey": "types.semiElectro.name",
+    "descriptionKey": "details.cordobaGkStudioBlanca.description",
+    "woodKey": "details.cordobaGkStudioBlanca.wood",
+    "soundKey": "details.cordobaGkStudioBlanca.sound",
+    "usageKey": "details.cordobaGkStudioBlanca.usage",
+    "averagePriceKey": "details.cordobaGkStudioBlanca.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 600 },
+      { "annee": 2018, "prix": 630 },
+      { "annee": 2020, "prix": 680 },
+      { "annee": 2022, "prix": 720 },
+      { "annee": 2024, "prix": 750 }
+    ]
+  },
+  {
+    "id": "alhambra-5f-e1",
+    "nameKey": "models.alhambra5fE1.name",
+    "typeKey": "types.semiElectro.name",
+    "descriptionKey": "details.alhambra5fE1.description",
+    "woodKey": "details.alhambra5fE1.wood",
+    "soundKey": "details.alhambra5fE1.sound",
+    "usageKey": "details.alhambra5fE1.usage",
+    "averagePriceKey": "details.alhambra5fE1.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 750 },
+      { "annee": 2018, "prix": 780 },
+      { "annee": 2020, "prix": 820 },
+      { "annee": 2022, "prix": 850 },
+      { "annee": 2024, "prix": 900 }
+    ]
+  },
+  {
+    "id": "camps-ce-500-negra",
+    "nameKey": "models.campsCe500Negra.name",
+    "typeKey": "types.semiElectro.name",
+    "descriptionKey": "details.campsCe500Negra.description",
+    "woodKey": "details.campsCe500Negra.wood",
+    "soundKey": "details.campsCe500Negra.sound",
+    "usageKey": "details.campsCe500Negra.usage",
+    "averagePriceKey": "details.campsCe500Negra.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 1100 },
+      { "annee": 2018, "prix": 1200 },
+      { "annee": 2020, "prix": 1250 },
+      { "annee": 2022, "prix": 1300 },
+      { "annee": 2024, "prix": 1400 }
+    ]
+  },
+  {
+    "id": "yamaha-cgx102",
+    "nameKey": "models.yamahaCgx102.name",
+    "typeKey": "types.semiElectro.name",
+    "descriptionKey": "details.yamahaCgx102.description",
+    "woodKey": "details.yamahaCgx102.wood",
+    "soundKey": "details.yamahaCgx102.sound",
+    "usageKey": "details.yamahaCgx102.usage",
+    "averagePriceKey": "details.yamahaCgx102.averagePrice",
+    "evolution": [
+      { "annee": 2016, "prix": 280 },
+      { "annee": 2018, "prix": 300 },
+      { "annee": 2020, "prix": 320 },
+      { "annee": 2022, "prix": 350 },
+      { "annee": 2024, "prix": 380 }
+    ]
+  }
+]

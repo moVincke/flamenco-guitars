@@ -1,0 +1,17 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# IDE / editors
+.vscode/
+.idea/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Logs
+*.log

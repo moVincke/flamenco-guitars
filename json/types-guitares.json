@@ -1,0 +1,26 @@
+[
+  {
+    "id": "blanca",
+    "nameKey": "types.blanca.name",
+    "descriptionKey": "types.blanca.description",
+    "image": "images/blanca.jpg"
+  },
+  {
+    "id": "negra",
+    "nameKey": "types.negra.name",
+    "descriptionKey": "types.negra.description",
+    "image": "images/negra.jpg"
+  },
+  {
+    "id": "pan-coupe",
+    "nameKey": "types.panCoupe.name",
+    "descriptionKey": "types.panCoupe.description",
+    "image": "images/pan-coupe.jpg"
+  },
+  {
+    "id": "semi-electro",
+    "nameKey": "types.semiElectro.name",
+    "descriptionKey": "types.semiElectro.description",
+    "image": "images/semi-electro.jpg"
+  }
+]

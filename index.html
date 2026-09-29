@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fr"> 
+   
+
+<head>
+    <meta charset="UTF-8">
+    <title>Page d'accueil</title>
+
+    <link id="theme-link" rel="stylesheet" href="css/style1.css">
+
+    <script src="script/styles.js" defer></script>
+    <script src="script/types.js" defer></script>
+    <script src="script/langues.js" defer></script>
+</head>
+
+
+<body>
+<header>
+    <div class="header-content">
+        <div>
+          <h1 data-i18n="index.title">Les guitares flamencas</h1>
+          <p data-i18n="index.subtitle">Là où le bois chante et le duende s'éveille</p>
+        </div>
+        <nav>                               
+           <a href="index.html" data-i18n="accueil">Accueil</a>
+           <a href="html/modeles.html" data-i18n="modeles">Modèles</a>
+           <a href="html/details.html" data-i18n="details">Détails</a>
+        </nav>
+    </div>
+</header>
+
+<main>
+ <section class="content-section">
+      <h2 data-i18n="index.presentationTitle">Présentation</h2>
+
+      <p data-i18n="index.presentationText">
+        La guitare flamenca est un genre de guitare classique : cordes en nylon,
+        à la différence de la guitare folk où les cordes sont en métales.
+        Elle est utilisée pour jouer du flamenco.
+     </p>
+    
+     <h3 data-i18n="index.typesTitle">Types de guitares</h3>
+    
+     <div id="types-container" class="cards-container"></div> 
+ </section>
+
+ <aside>
+    <section class="sidebar-block">
+      <h2 data-i18n="choisirStyle">Choisir le style</h2>
+      <ul>
+       <li><a href="#" onclick="changerStyle('style1')" data-i18n="style1">Style 1</a></li>
+       <li><a href="#" onclick="changerStyle('style2')" data-i18n="style2">Style 2</a></li>
+       <li><a href="#" onclick="changerStyle('style3')" data-i18n="style3">Style 3</a></li>
+      </ul>
+    </section>
+
+    <section class="sidebar-block">
+      <h2 data-i18n="choisirLangue">Choisir la langue</h2>
+
+        <select id="langue-select">
+          <option value="fr">FR</option>
+          <option value="en">EN</option>
+           <option value="nl">NL</option>
+
+        </select>
+    </section>
+ </aside>
+</main>
+</body>
+
+</html>

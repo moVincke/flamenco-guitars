@@ -1,0 +1,142 @@
+[
+  {
+    "id": "alhambra-7fc-blanca",
+    "type": "blanca",
+    "nameKey": "models.alhambra7fcBlanca.name",
+    "descriptionKey": "models.alhambra7fcBlanca.description",
+    "image": "images/alhambra-7fc-blanca.jpg"
+  },
+  {
+    "id": "cordoba-f7-blanca",
+    "type": "blanca",
+    "nameKey": "models.cordobaF7Blanca.name",
+    "descriptionKey": "models.cordobaF7Blanca.description",
+    "image": "images/cordoba-f7-blanca.jpg"
+  },
+  {
+    "id": "admira-f4-blanca",
+    "type": "blanca",
+    "nameKey": "models.admiraF4Blanca.name",
+    "descriptionKey": "models.admiraF4Blanca.description",
+    "image": "images/admira-f4-blanca.jpg"
+  },
+  {
+    "id": "camps-primera-blanca",
+    "type": "blanca",
+    "nameKey": "models.campsPrimeraBlanca.name",
+    "descriptionKey": "models.campsPrimeraBlanca.description",
+    "image": "images/camps-primera-blanca.jpg"
+  },
+  {
+    "id": "ramirez-estudio-blanca",
+    "type": "blanca",
+    "nameKey": "models.ramirezEstudioBlanca.name",
+    "descriptionKey": "models.ramirezEstudioBlanca.description",
+    "image": "images/ramirez-estudio-blanca.jpg"
+  },
+  {
+    "id": "cordoba-gk-pro-negra",
+    "type": "negra",
+    "nameKey": "models.cordobaGkProNegra.name",
+    "descriptionKey": "models.cordobaGkProNegra.description",
+    "image": "images/cordoba-gk-pro-negra.jpg"
+  },
+  {
+    "id": "alhambra-10fc-negra",
+    "type": "negra",
+    "nameKey": "models.alhambra10fcNegra.name",
+    "descriptionKey": "models.alhambra10fcNegra.description",
+    "image": "images/alhambra-10fc-negra.jpg"
+  },
+  {
+    "id": "camps-negra",
+    "type": "negra",
+    "nameKey": "models.campsNegra.name",
+    "descriptionKey": "models.campsNegra.description",
+    "image": "images/camps-negra.jpg"
+  },
+  {
+    "id": "admira-triana-negra",
+    "type": "negra",
+    "nameKey": "models.admiraTrianaNegra.name",
+    "descriptionKey": "models.admiraTrianaNegra.description",
+    "image": "images/admira-triana-negra.jpg"
+  },
+  {
+    "id": "ramirez-negra-estudio",
+    "type": "negra",
+    "nameKey": "models.ramirezNegraEstudio.name",
+    "descriptionKey": "models.ramirezNegraEstudio.description",
+    "image": "images/ramirez-negra-estudio.jpg"
+  },
+  {
+    "id": "cordoba-fusion-14-cutaway",
+    "type": "pan-coupe",
+    "nameKey": "models.cordobaFusion14Cutaway.name",
+    "descriptionKey": "models.cordobaFusion14Cutaway.description",
+    "image": "images/cordoba-fusion-14-cutaway.jpg"
+  },
+  {
+    "id": "admira-buleria-ecf",
+    "type": "pan-coupe",
+    "nameKey": "models.admiraBuleriaEcf.name",
+    "descriptionKey": "models.admiraBuleriaEcf.description",
+    "image": "images/admira-buleria-ecf.jpg"
+  },
+  {
+    "id": "admira-alegria-ecf",
+    "type": "pan-coupe",
+    "nameKey": "models.admiraAlegriaEcf.name",
+    "descriptionKey": "models.admiraAlegriaEcf.description",
+    "image": "images/admira-alegria-ecf.jpg"
+  },
+  {
+    "id": "camps-fl11c-negra",
+    "type": "pan-coupe",
+    "nameKey": "models.campsFl11cNegra.name",
+    "descriptionKey": "models.campsFl11cNegra.description",
+    "image": "images/camps-fl11c-negra.jpg"
+  },
+  {
+    "id": "saenz-primera-palossanto-cwe",
+    "type": "pan-coupe",
+    "nameKey": "models.saenzPrimeraPalossantoCwe.name",
+    "descriptionKey": "models.saenzPrimeraPalossantoCwe.description",
+    "image": "images/saenz-primera-palossanto-cwe.jpg"
+  },
+  {
+    "id": "cordoba-gk-studio-negra",
+    "type": "semi-electro",
+    "nameKey": "models.cordobaGkStudioNegra.name",
+    "descriptionKey": "models.cordobaGkStudioNegra.description",
+    "image": "images/cordoba-gk-studio-negra.jpg"
+  },
+  {
+    "id": "cordoba-gk-studio-blanca",
+    "type": "semi-electro",
+    "nameKey": "models.cordobaGkStudioBlanca.name",
+    "descriptionKey": "models.cordobaGkStudioBlanca.description",
+    "image": "images/cordoba-gk-studio-blanca.jpg"
+  },
+  {
+    "id": "alhambra-5f-e1",
+    "type": "semi-electro",
+    "nameKey": "models.alhambra5fE1.name",
+    "descriptionKey": "models.alhambra5fE1.description",
+    "image": "images/alhambra-5f-e1.jpg"
+  },
+  {
+    "id": "camps-ce-500-negra",
+    "type": "semi-electro",
+    "nameKey": "models.campsCe500Negra.name",
+    "descriptionKey": "models.campsCe500Negra.description",
+    "image": "images/camps-ce-500-negra.jpg"
+  },
+  {
+    "id": "yamaha-cgx102",
+    "type": "semi-electro",
+    "nameKey": "models.yamahaCgx102.name",
+    "descriptionKey": "models.yamahaCgx102.description",
+    "image": "images/yamaha-cgx102.jpg"
+  }
+]

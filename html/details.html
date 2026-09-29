@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Page détails</title>
+
+    <link id="theme-link" rel="stylesheet" href="../css/style1.css">
+
+    <script src="../script/styles.js" defer></script>
+    <script src="../script/details.js?v=3" defer></script>
+    <script src="../script/langues.js" defer></script>
+</head>
+
+<body>
+
+<header>
+    <div class="header-content">
+        <div>
+            <h1 data-i18n="details.title">Détails guitare flamenca</h1>
+        </div>
+
+        <nav>
+            <a href="../index.html" data-i18n="accueil">Accueil</a>
+            <a href="modeles.html" data-i18n="modeles">Modèles</a>
+            <a href="details.html" data-i18n="details">Détails</a>
+        </nav>
+    </div>
+</header>
+
+<main>
+    <section class="content-section">
+        <h2 data-i18n="details.modelTitle">Détail du modèle</h2>
+        <div id="details-container"></div>
+
+        <h2 data-i18n="details.evolutionTitle">Évolution guitare</h2>
+        <div id="evolution-container"></div>
+    </section>
+
+    <aside>
+        <section class="sidebar-block">
+            <h2 data-i18n="choisirStyle">Choisir le style</h2>
+
+            <ul>
+                <li><a href="#" onclick="changerStyle('style1')" data-i18n="style1">Style 1</a></li>
+                <li><a href="#" onclick="changerStyle('style2')" data-i18n="style2">Style 2</a></li>
+                <li><a href="#" onclick="changerStyle('style3')" data-i18n="style3">Style 3</a></li>
+            </ul>
+        </section>
+
+        <section class="sidebar-block">
+            <h2 data-i18n="choisirLangue">Choisir la langue</h2>
+
+            <select id="langue-select">
+                <option value="fr">FR</option>
+                <option value="en">EN</option>
+                <option value="nl">NL</option>
+            </select>
+        </section>
+    </aside>
+</main>
+
+</body>
+</html>

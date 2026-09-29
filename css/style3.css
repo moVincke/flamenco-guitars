@@ -1,0 +1,254 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #121212;
+    color: #e8d9a8;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background-color: #0a0a0a;
+    border-bottom: 1px solid #3a3324;
+    padding: 30px 50px;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.2em;
+    letter-spacing: 2px;
+    color: #f0d98c;
+}
+
+header p {
+    margin: 5px 0 0;
+    color: #9f9f9f;
+}
+
+/* Navigation */
+nav a {
+    color: #d6c37a;
+    text-decoration: none;
+    margin-left: 25px;
+    font-size: 1.1em;
+}
+
+nav a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+/* Layout principal */
+main {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    gap: 30px;
+    padding: 35px 50px;
+}
+
+
+aside {
+    order: -1;
+    background-color: #1b1b1b;
+    border: 1px solid #3a3324;
+    border-radius: 14px;
+    padding: 25px;
+    height: fit-content;
+
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.45);
+}
+
+/* Blocs dans l'aside */
+.sidebar-block {
+    margin-bottom: 30px;
+}
+
+.sidebar-block h2 {
+    margin: 0 0 15px;
+    font-size: 1.1em;
+    color: #f0d98c;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+/* Liste des styles */
+.sidebar-block ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar-block li {
+    margin-bottom: 12px;
+}
+
+.sidebar-block a {
+    color: #a8a8a8;
+    text-decoration: none;
+}
+
+.sidebar-block a:hover {
+    color: #f0d98c;
+}
+
+/* Sélecteur de langue */
+#langue-select {
+    width: 100%;
+    padding: 10px 14px;
+    border: 1px solid #4a4a4a;
+    border-radius: 8px;
+    background-color: #252525;
+    color: #f0d98c;
+    font-size: 1em;
+}
+
+/* Section principale */
+.content-section {
+    background-color: #171717;
+    border: 1px solid #333333;
+    border-radius: 14px;
+    padding: 35px;
+
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+/* Titres du contenu */
+.content-section h2,
+.content-section h3 {
+    color: #f0d98c;
+    margin-top: 0;
+    letter-spacing: 1px;
+}
+
+.content-section p {
+    color: #bdbdbd;
+}
+
+/* Conteneurs de cartes */
+.cards-container,
+#modeles-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 28px;
+    margin-top: 25px;
+}
+
+/* Cartes */
+.cards-container article,
+#modeles-container article {
+    background-color: #202020;
+    border: 1px solid #3a3a3a;
+    border-radius: 14px;
+    padding: 22px;
+
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.65);
+}
+
+/* Effet léger au survol */
+.cards-container article:hover,
+#modeles-container article:hover {
+    border-color: #c9ad5d;
+    box-shadow: 0 16px 35px rgba(0, 0, 0, 0.8);
+}
+
+/* Images des cartes */
+.cards-container article img,
+#modeles-container article img {
+    width: 100%;
+    max-width: 280px;
+    height: 190px;
+    object-fit: contain;
+
+    display: block;
+    margin: 0 auto 15px;
+
+    background-color: #2b2b2b;
+    border-radius: 8px;
+}
+
+/* Textes des cartes */
+article h3 {
+    margin: 10px 0;
+    color: #f0d98c;
+}
+
+article p {
+    color: #a8a8a8;
+}
+
+/* Liens dans les cartes */
+article a {
+    color: #d6b85f;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: auto;
+}
+
+article a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+/* Page détails */
+#details-container article {
+    background-color: #202020;
+    border: 1px solid #3a3a3a;
+    border-radius: 14px;
+    padding: 30px;
+
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.65);
+}
+
+#details-container article img {
+    width: 100%;
+    max-width: 330px;
+    height: 230px;
+    object-fit: contain;
+
+    display: block;
+    margin: 0 auto 20px;
+
+    background-color: #2b2b2b;
+    border-radius: 8px;
+}
+
+/* Tableau détails */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 25px;
+    background-color: #202020;
+    color: #d8d8d8;
+
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.55);
+}
+
+th,
+td {
+    border: 1px solid #3a3a3a;
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #2b2b2b;
+    color: #f0d98c;
+}
